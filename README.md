@@ -2,15 +2,17 @@
 
 ### Senior Software Engineer | .NET Backend Developer
 
-I'm a backend-focused software engineer with **4+ years of experience** building scalable and maintainable applications. I primarily work with **C#, ASP.NET Core, RESTful APIs, SQL Server, and PostgreSQL**, with a strong focus on backend architecture, database optimization, and secure API development.
+I'm a backend-focused software engineer with **4+ years of experience** building scalable and maintainable applications. I primarily work with **C#, ASP.NET Core, RESTful APIs, SQL Server, and PostgreSQL**, with a strong focus on backend architecture, database optimization, secure API development, and cloud-based integrations.
 
 ## 🚀 About Me
 
 - 🔭 Building scalable backend systems and RESTful APIs
 - 🛠️ Experienced with ASP.NET Core, .NET 8, C#, SQL Server, and PostgreSQL
-- 🔐 Working with JWT authentication and role-based authorization
-- ☁️ Familiar with AWS services including S3 and Lambda
-- ⚡ Focused on performance optimization, clean architecture, and maintainable code
+- 🔐 Working with JWT authentication, role-based authorization, and Azure-based SSO authentication
+- ☁️ Working with AWS services including S3, Lambda, and SQS
+- 📦 Using Docker for containerized application development and deployment
+- 📊 Familiar with the ELK Stack: Elasticsearch, Logstash, and Kibana
+- ⚡ Focused on performance optimization, clean architecture, logging, and maintainable code
 - 📍 Based in Mumbai, India
 
 ## 💻 Tech Stack
@@ -23,19 +25,28 @@ I'm a backend-focused software engineer with **4+ years of experience** building
 
 `SQL Server` · `PostgreSQL` · `Dapper` · `Entity Framework` · `ADO.NET` · `LINQ` · `Stored Procedures`
 
-**Cloud & Tools**
+**Cloud, Messaging & Containers**
 
-`AWS S3` · `AWS Lambda` · `GitHub` · `Postman` · `Swagger` · `Serilog`
+`AWS S3` · `AWS Lambda` · `AWS SQS` · `Docker`
 
-**Architecture & Security**
+**Search, Logging & Observability**
 
-`N-Tier Architecture` · `JWT Authentication` · `Role-Based Authorization` · `Background Services`
+`Elasticsearch` · `Logstash` · `Kibana` · `ELK Stack` · `Serilog`
+
+**Security & Authentication**
+
+`JWT Authentication` · `Role-Based Authorization` · `Azure Authentication` · `Single Sign-On (SSO)`
+
+**Tools & Architecture**
+
+`GitHub` · `Postman` · `Swagger` · `N-Tier Architecture` · `Background Services`
 
 ## 📌 What I'm Currently Focusing On
 
 - Building production-style .NET backend projects for my public portfolio
-- Designing scalable APIs and background processing workflows
-- Exploring cloud-native application development and distributed systems
+- Designing scalable APIs, background services, and message-driven workflows using AWS SQS
+- Containerizing applications with Docker
+- Exploring centralized logging and observability using the ELK Stack
 - Improving system design and backend architecture skills
 
 ## 🤝 Let's Connect
